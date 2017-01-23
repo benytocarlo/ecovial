@@ -1,0 +1,20 @@
+Usuario normal:
+Buscar Guia y mostrar
+Buscar OC y mostrar
+Buscar Presupuesto y mostrar
+
+Usuario Admin:
+Buscar Guia y mostrar para editar
+Buscar OC y mostrar para editar
+Buscar Presupuesto y mostrar para editar
+
+En Presupuesto cambiar firma de Recepcion:
+	Rancagua: Ingrid Lazcano
+	Curico	: Jessica Cabrera
+
+Ingreso de Materias Primas colocar calendario 		
+Informe de Producto sale de Ingreso de Materias primas y compra de insumos
+Falta Informe de Resumen por Obra
+Falta Informe por Fletero
+
+Revisar SQL de las fechas de los informes
